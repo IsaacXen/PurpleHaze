@@ -4,7 +4,7 @@
 
 ## Installation
 
-1. lone PurpleHaze:
+1. Clone PurpleHaze:
 ```bash
 $ git clone https://github.com/IsaacXen/PurpleHaze.git
 ```
@@ -16,4 +16,4 @@ $ mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 ```bash
 $ cp PurpleHaze.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/PurpleHaze.xccolortheme
 ```
-4. Relaunch Xcode and Change Theme to `PurpleHaze` in Xcode Preferences - Font & Colors
+4. Relaunch Xcode and change Theme to `PurpleHaze` in Xcode Preferences - Font & Colors
