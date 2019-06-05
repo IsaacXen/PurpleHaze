@@ -30,6 +30,8 @@
 	<string>0.188205 0.19415 0.204053 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.25336 0.261024 0.283306 1</string>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
 	<key>DVTLineSpacing</key>
 	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
@@ -106,6 +108,10 @@
 		<string>0.281434 0.298557 0.353183 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.281434 0.298557 0.353183 1</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.555498 0.583986 0.730596 1</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.555498 0.583986 0.730596 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.878914 0.645361 0.352361 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -132,6 +138,10 @@
 		<string>0.343579 0.488364 0.758237 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.635685 0.424483 0.800688 1</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.283269 0.298047 0.353048 1</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>0.892788 0.273703 0.67062 1</string>
 		<key>xcode.syntax.number</key>
 		<string>0.778886 0.308391 0.280337 1</string>
 		<key>xcode.syntax.plain</key>
@@ -154,6 +164,10 @@
 		<key>xcode.syntax.comment.doc</key>
 		<string>Inconsolata-Regular - 15.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>Inconsolata-Regular - 15.0</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>Inconsolata-Regular - 15.0</string>
+		<key>xcode.syntax.declaration.type</key>
 		<string>Inconsolata-Regular - 15.0</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>Inconsolata-Regular - 15.0</string>
@@ -180,6 +194,10 @@
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>Inconsolata-Regular - 15.0</string>
 		<key>xcode.syntax.keyword</key>
+		<string>Inconsolata-Regular - 15.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>Inconsolata-Regular - 15.0</string>
+		<key>xcode.syntax.markup.code</key>
 		<string>Inconsolata-Regular - 15.0</string>
 		<key>xcode.syntax.number</key>
 		<string>Inconsolata-Regular - 15.0</string>
