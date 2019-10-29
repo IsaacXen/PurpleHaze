@@ -85,7 +85,7 @@
 	<key>DVTScrollbarMarkerWarningColor</key>
 	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.121943 0.123721 0.139441 1</string>
+	<string>0.119296 0.126198 0.142796 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
@@ -103,7 +103,7 @@
 		<key>xcode.syntax.character</key>
 		<string>0.778886 0.308391 0.280337 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.281434 0.298557 0.353183 1</string>
+		<string>0.282353 0.298039 0.352941 1</string>
 		<key>xcode.syntax.comment.doc</key>
 		<string>0.281434 0.298557 0.353183 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
@@ -111,9 +111,9 @@
 		<key>xcode.syntax.declaration.other</key>
 		<string>0.555498 0.583986 0.730596 1</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>0.555498 0.583986 0.730596 1</string>
+		<string>0.330928 0.653425 0.607749 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.878914 0.645361 0.352361 1</string>
+		<string>0.919583 0.787476 0.35155 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.253167 0.477262 0.734987 1</string>
 		<key>xcode.syntax.identifier.constant</key>
@@ -121,7 +121,7 @@
 		<key>xcode.syntax.identifier.constant.system</key>
 		<string>0.343579 0.488364 0.758237 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.33299 0.652905 0.607756 1</string>
+		<string>0.333333 0.65098 0.607843 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.343579 0.488364 0.758237 1</string>
 		<key>xcode.syntax.identifier.macro</key>
@@ -137,78 +137,78 @@
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>0.343579 0.488364 0.758237 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.635685 0.424483 0.800688 1</string>
+		<string>0.635294 0.423529 0.8 1</string>
 		<key>xcode.syntax.mark</key>
-		<string>0.283269 0.298047 0.353048 1</string>
+		<string>0.415068 0.437551 0.518836 1</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>0.892788 0.273703 0.67062 1</string>
+		<string>0.767587 0.208625 0.68005 1</string>
 		<key>xcode.syntax.number</key>
 		<string>0.778886 0.308391 0.280337 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.554982 0.584231 0.728926 1</string>
+		<string>0.556863 0.584314 0.729412 1</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.911224 0.833073 0.345546 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.635687 0.797156 0.371859 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.257404 0.584113 0.544516 1</string>
+		<string>0.258824 0.584314 0.545098 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Inconsolata-Regular - 15.0</string>
+		<string>Inconsolata-Regular - 14.0</string>
 	</dict>
 </dict>
 </plist>
