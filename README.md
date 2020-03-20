@@ -18,4 +18,4 @@ $ cp PurpleHaze.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThem
 ```
 4. Relaunch Xcode and change Theme to `PurpleHaze` in Xcode Preferences - Font & Colors.
 
-5. (Optional) Download & install `Incosolata` from ![Google Fonts](https://fonts.google.com/specimen/Inconsolata).
+5. (Optional) Download & install `Incosolata` from [Google Fonts](https://fonts.google.com/specimen/Inconsolata).
